@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        .body {
+            text-align: center;
+        }
+
+    </style>
+
+</head>
+<body class="body">
+
+<input type="text" id="time" style="border:2px solid gray; text-align:center; font-size:72px;" disabled="true"/>
+
+
+<script>
+    window.onload = function () {
+        countdown(90*60); };
+
+    function countdown(startTime) {
+        let time = startTime;
+        let box = document.getElementById('time');
+        setInterval(decrement, 1000);
+
+        function decrement() {
+            time--;
+            box.value =  Math.trunc(time / 60) +
+                ':' + ("0" + (time % 60)).slice(-2);
+        }
+    }
+
+
+    // function countdown(startTime) {
+    //     let time = startTime;
+    //     let box = document.getElementById('time');
+    //     setInterval(decrement, 1000);
+    //
+    //     function decrement() {
+    //         time--;
+    //         box.value = Math.trunc(time / 60) +
+    //             ':' + ("0" + (time % 60)).slice(-2);
+    //     }
+    // }
+
+
+</script>
+
+
+</body>
+</html>

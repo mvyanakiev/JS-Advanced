@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Distance Converter</title>
+
+    <style>
+        label, input {
+            display: inline-block;
+            width: 5em;
+        }
+
+        label {
+            text-align: right;
+        }
+    </style>
+</head>
+<body onload="attachEventsListeners()">
+
+
+<script>
+
+    function attachEventsListeners() {
+
+        document.getElementById("convert").addEventListener("click", convert);
+
+        function convert() {
+            let inputDistance = Number(document.getElementById('inputDistance').value);
+            let inputUnits = document.getElementById('inputUnits').value;
+            let outputUnits = document.getElementById('outputUnits').value;
+            let tempDistance = 0;
+
+            switch (inputUnits) {
+
+                case ('km'):
+                    tempDistance = inputDistance * (1000 * 100 * 10);
+                    break;
+
+                case ('m'):
+                    tempDistance = inputDistance * 1000;
+                    break;
+
+                case ('cm'):
+                    tempDistance = inputDistance * 10;
+                    break;
+
+                case ('mm'):
+                    tempDistance = inputDistance;
+                    break;
+
+                case ('mi'):
+                    tempDistance = inputDistance * (1609.34 * 1000);
+                    break;
+
+                case ('yrd'):
+                    tempDistance = inputDistance * (0.9144 * 1000);
+                    break;
+
+                case ('ft'):
+                    tempDistance = inputDistance * (0.3048 * 1000);
+                    break;
+
+                case ('in'):
+                    tempDistance = inputDistance * (0.0254 * 1000);
+                    break;
+            }
+
+
+            switch (outputUnits) {
+
+                case ('km'):
+                    document.getElementById('outputDistance').value = tempDistance / (1000 * 100 * 10);
+                    break;
+
+                case ('m'):
+                    document.getElementById('outputDistance').value = tempDistance / (1000);
+                    break;
+
+                case ('cm'):
+                    document.getElementById('outputDistance').value = tempDistance / (10);
+                    break;
+
+                case ('mm'):
+                    document.getElementById('outputDistance').value = tempDistance;
+                    break;
+
+                case ('mi'):
+                    document.getElementById('outputDistance').value = tempDistance / (1609.34 * 1000);
+                    break;
+
+                case ('yrd'):
+                    document.getElementById('outputDistance').value = tempDistance / (0.9144 * 1000);
+                    break;
+
+                case ('ft'):
+                    document.getElementById('outputDistance').value = tempDistance / (0.3048 * 1000);
+                    break;
+
+                case ('in'):
+                    document.getElementById('outputDistance').value = tempDistance / (0.0254 * 1000);
+                    break;
+            }
+
+
+        }
+    }
+
+
+</script>
+
+
+<h1>Distance Converter</h1>
+<div>
+    <label for="inputDistance">From:</label>
+    <input type="text" id="inputDistance">
+    <select id="inputUnits">
+        <option value="km">Kilometers</option>
+        <option value="m">Meters</option>
+        <option value="cm">Centimeters</option>
+        <option value="mm">Millimeters</option>
+        <option value="mi">Miles</option>
+        <option value="yrd">Yards</option>
+        <option value="ft">Feet</option>
+        <option value="in">Inches</option>
+    </select>
+    <input type="button" id="convert" value="Convert">
+</div>
+<div>
+    <label for="outputDistance">To:</label>
+    <input type="text" id="outputDistance" disabled="disabled">
+    <select id="outputUnits">
+        <option value="km">Kilometers</option>
+        <option value="m">Meters</option>
+        <option value="cm">Centimeters</option>
+        <option value="mm">Millimeters</option>
+        <option value="mi">Miles</option>
+        <option value="yrd">Yards</option>
+        <option value="ft">Feet</option>
+        <option value="in">Inches</option>
+    </select>
+</div>
+</body>
+</html>

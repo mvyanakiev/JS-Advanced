@@ -1,6 +1,5 @@
 function add(a) {
 
-//todo functional sum
 
 }
 

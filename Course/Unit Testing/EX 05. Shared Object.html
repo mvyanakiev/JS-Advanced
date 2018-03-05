@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Shared Object</title>
+    <script src="./EX%2005.%20Shared%20Object.js"></script>
+
+    <script src="../jquery-3.3.1.min.js">
+        integrity = "sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=";
+        crossorigin = "anonymous"
+    </script>
+</head>
+<body>
+<div id="wrapper">
+    <input type="text" id="name">
+    <input type="text" id="income">
+    <button id="btn">Action</button>
+</div>
+<script>
+    document.getElementById("btn").addEventListener("click", function () {
+
+        sharedObject.updateIncome();
+        sharedObject.updateName();
+
+        console.log(sharedObject.name);
+        console.log(sharedObject.income);
+
+    });
+</script>
+</body>
+</html>

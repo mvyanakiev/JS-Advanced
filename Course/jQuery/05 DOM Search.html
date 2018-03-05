@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM Search</title>
+    <script src="../jquery-3.3.1.min.js">
+        integrity = "sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=";
+        crossorigin = "anonymous"
+    </script>
+    <style>
+        .add-controls, .search-controls {
+            width: 20em;
+            height: 2em;
+        }
+
+        input {
+            position: absolute;
+            left: 6em;
+        }
+
+        .button {
+            background-color: darkgrey;
+            color: white;
+            font-weight: bold;
+            position: absolute;
+            left: 15em;
+            border: 1px solid black;
+            padding: 0 5px 0 5px;
+        }
+
+        .result-controls .button {
+            position: relative;
+            left: 0;
+            font-size: 50%;
+            margin-right: 1em;
+            padding: 0;
+            bottom: 3px;
+        }
+
+        li {
+            list-style-type: none;
+        }
+    </style>
+</head>
+<body>
+<div id="content"></div>
+<script>
+
+    domSearch("#content", false);
+
+    function domSearch(selector, IsCaseSensitive) {
+
+        $(selector).addClass('items-control');
+
+        $(selector).append($('<div>').attr('class', 'add-controls')
+            .append($('<label>').text("Enter text: ").append($('<input>')))
+            .append($('<a>').addClass("button").css("display", "inline-block").text("Add")));
+
+
+        $(selector).append($('<div>').attr('class', 'search-controls')
+            .append($('<label>').text("Search: ").append($('<input>'))));
+    }
+
+    let txtAlert = $("input").text(); // ????
+
+    // хващаш го чрез parent на label и .find('input')
+
+    $(".button").on("click", function () {
+        alert(txtAlert)
+    });
+
+
+    //todo да се добави третия div с листа и да се върже фунционалността на полетата
+
+
+    // $('<div/>', {
+    //     'class': 'add-controls;',
+    // }).appendTo(selector);
+
+    // $("#add-controls").append('<label>').text("Enter text:").append('<input>');
+
+
+    // $('<label>').appendTo('.add-controls');
+
+
+    // $(".add-controls").append('<label>tst</label>');
+    //
+    // $(".add-controls").append($('<p>').addClass('title').text("kur"));
+
+
+    // $('<div/>', {
+    //     'class': 'items-controls;',
+    // }).appendTo(selector);
+
+
+    // $('<div/>', {
+    //     'id': 'content',
+    //     'class': 'items-controls;',
+    // }).appendTo(selector);
+
+
+</script>
+</body>
+</html>

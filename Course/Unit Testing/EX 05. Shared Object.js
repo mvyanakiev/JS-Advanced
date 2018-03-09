@@ -35,5 +35,3 @@ let sharedObject = {
 };
 
 module.exports = {sharedObject};
-
-

@@ -1,4 +1,4 @@
-function ticket(input, sortingOrdder) { //todo sorting
+function ticket(input, sortingOrdder) {
 
     class Ticket {
         constructor(destination, price, status) {

@@ -5,10 +5,10 @@ let uniqueRandomKeys = new Set();
 
 function makeRandomKey() {
 
-    function makeRandomElement(symbols, length) {
+    function makeRandomElement(symbols, elementLength) {
         let outputString = "";
 
-        for (let i = 0; i < length; i++)
+        for (let i = 0; i < elementLength; i++)
             outputString += symbols.charAt(Math.floor(Math.random() * symbols.length));
 
         return outputString;
@@ -20,9 +20,7 @@ function makeRandomKey() {
     return makeRandomElement(possibleDigits, 3) + "-"
         + makeRandomElement(possibleLetters, 3) + "-"
         + makeRandomElement(possibleDigits, 3)
-
 }
-
 
 while (uniqueRandomKeys.size < 1000000) {
     uniqueRandomKeys.add(makeRandomKey());

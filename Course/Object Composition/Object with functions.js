@@ -37,9 +37,9 @@ function tst(input) {
         action[element[0]](element[1]);
     }
 
-    console.log('total sum e: ' + sum);
+    console.log('total sum is: ' + sum);
 
 }
 
-tst([['ad', 10], ['ex', 7], ['multy', 6], ['del', 4]]);
-// tst([['prn', 5], ['ad', 6]]);
+// tst([['ad', 10], ['ex', 7], ['multy', 6], ['del', 4]]);
+tst([['prn'], ['ad', 6]]);

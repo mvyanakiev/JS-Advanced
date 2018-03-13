@@ -8,18 +8,22 @@ class Task {
     get rank() {
         if (this.isOverdue) {
             return 0
+        } else if (this.status === "Complete") {
+            return 3
         } else if (this.status === "In Progress") {
             return 1
-        } // todo dovarshi
+        } else if (this.status === "Open") {
+            return 2
+        }
     }
 
-    get deadline() { // bez value
-        return this._deadline; //zadalzhitelno s "_"
+    get deadline() { // на гетър не се слага value
+        return this._deadline; //задължително с "_" иначе влизаш в рекурсия
     }
 
-    set deadline(value) { // validacia. value e zadalzhitelno
+    set deadline(value) { // валидация value e здължителен елемент
         if (value < Date.now()) {
-            throw new Error("data ne mozhe v minaloto")
+            throw new Error("Task should be overdue")
         }
         this._deadline = value;
     }
@@ -29,33 +33,35 @@ class Task {
     }
 
     get icon() {
-        if (this.status === "Complete") {
-            return "\u2714";
-        } else if (this.status === "Open") {
+        if (this.status === "Open") {
             return "\u2731";
         } else if (this.status === "In Progress") {
             return "\u219D";
-        } else if (this.status === "Overdue") {
-            return "\u26A0";
-        } // vazhen e reda
+        } else if (this.status === "Complete") {
+            return "\u2714";
+        }
     }
 
+
     toString() {
-        if (this.status === "Overdue") {
-            return `[${this.icon}] ${this.title}`
-        } // todo dovarshi
+        if (this.isOverdue) {
+            return `[\u26A0] ${this.title} (overdue)`;
+        } else if (this.status === "Complete") {
+            return `[${this.icon}] ${this.title}`;
+        } else {
+            return `[${this.icon}] ${this.title} (deadline: ${this.deadline})`;
+        }
     }
+
 
     static comparator(a, b) {
         let criteria = a.rank - b.rank;
 
         if (criteria === 0) {
-            a.deadline - b.deadline;
+            return a.deadline - b.deadline
         }
-
-
+        return criteria;
     }
-
 
 }
 
@@ -77,10 +83,12 @@ task1.status = 'In Progress';
 task3.status = 'In Progress';
 task5.status = "Complete";
 let tasks = [task1, task2, task3, task4, task5];
+
 setTimeout(() => {
     tasks.sort(Task.comparator);
     console.log(tasks.join('\n'));
-}, 1000); // Sort and print one second later
+}, 1000); // Sort and print 5 seconds later
+
 
 // should throw an Error
 // let overdueTask = new Task('Overdue Task', new Date(2005, '4', '20'));

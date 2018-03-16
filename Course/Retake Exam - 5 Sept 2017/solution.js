@@ -14,15 +14,12 @@ class Dialog {
         this.element = $('<div class="overlay">');
         let innerDiv = $('<div class="dialog">');
         innerDiv.append(`<p>${this.message}</p>`);
-
         for (let obj of this.inputs) {
             innerDiv.append(`<label>${obj.label}</label>`);
-            innerDiv.append(`<input name="${obj.name}" type="text">`);
+            innerDiv.append(`<input name="${obj.name}" type="${obj.type}">`);
         }
-
         innerDiv.append($('<button>OK</button>').on('click', this._ok.bind(this)));
         innerDiv.append($('<button>Cancel</button>').on('click', this._cancel.bind(this)));
-
         this.element.append(innerDiv);
         $('body').append(this.element);
     }

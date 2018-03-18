@@ -74,6 +74,9 @@ describe("tests", function () {
         expect(() => bill.value = -12).to.throw(Error, 'Value must be a non-negative number');
     });
 
+    it("set value to 0", function () {
+        expect(() => bill.value = 0).to.not.throw(Error, 'Value must be a non-negative number');
+    });
 
     it("is non wrong Active", function () {
         expect(() => bill.active = 12).to.throw(Error, 'Active status must be a boolean');

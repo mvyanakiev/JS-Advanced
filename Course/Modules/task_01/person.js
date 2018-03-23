@@ -5,7 +5,7 @@ class Person {
     }
 
     toString () {
-        return `I am ${this.name}`;
+        return `I\'m ${this.name}`;
     }
 
 

@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb9f6b4-5957-43db-9a58-9f4dbe69487e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course/myExam_18.03.18/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Course/myExam_18.03.18/solution.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Course/myExam_18.03.18/addProduct.js" afterPath="$PROJECT_DIR$/Course/myExam_18.03.18/addProduct.js" />
+      <change beforePath="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" afterPath="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" />
+      <change beforePath="$PROJECT_DIR$/Course/Modules/app.js" afterPath="$PROJECT_DIR$/Course/Modules/task_01/app.js" />
+      <change beforePath="$PROJECT_DIR$/Course/Modules/person.js" afterPath="$PROJECT_DIR$/Course/Modules/task_01/person.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,49 +28,7 @@
     <favorites_list name="JS-Advanced" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1">
-              <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="16" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="solution.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-              <folding>
-                <marker date="1521402934351" expanded="true" signature="140:948" ph="..." />
-                <marker date="1521402934351" expanded="true" signature="205:400" ph="..." />
-                <marker date="1521402934351" expanded="true" signature="218:388" ph="..." />
-                <marker date="1521402934351" expanded="true" signature="429:654" ph="..." />
-                <marker date="1521402934351" expanded="true" signature="442:641" ph="..." />
-                <marker date="1521402934351" expanded="true" signature="695:934" ph="..." />
-                <marker date="1521402934351" expanded="true" signature="708:921" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04. Contacts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="47" column="37" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../Local Soft/iota seed gen/generator.js" />
         <option value="$PROJECT_DIR$/../../Local Soft/iota seed gen/index.html" />
         <option value="$PROJECT_DIR$/Course/Classes and Members/EX 04. Length Limit.js" />
         <option value="$PROJECT_DIR$/Course/Object Composition/Object with functions.js" />
@@ -129,11 +86,9 @@
         <option value="$PROJECT_DIR$/Course/Modules/package/персон.js" />
         <option value="$PROJECT_DIR$/Course/Modules/package/person.js" />
         <option value="$PROJECT_DIR$/Course/Modules/person.js" />
-        <option value="$PROJECT_DIR$/Course/Modules/app.js" />
         <option value="$PROJECT_DIR$/Course/Exam 19.12.16/01. Move Towns UpDown.html" />
         <option value="$PROJECT_DIR$/Course/Exam 19.12.16/02. FunctionTest.js" />
         <option value="$PROJECT_DIR$/Course/Exam 19.12.16/02_test.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" />
         <option value="$PROJECT_DIR$/Course/Exam 19.12.16/03. Player.js" />
         <option value="$PROJECT_DIR$/Course/myExam_18.03.18/fnctTst.js" />
         <option value="$PROJECT_DIR$/Course/myExam_18.03.18/02. Payment Package.js" />
@@ -145,6 +100,9 @@
         <option value="$PROJECT_DIR$/Course/myExam_18.03.18/04. Payment Manager.html" />
         <option value="$PROJECT_DIR$/Course/myExam_18.03.18/index.html" />
         <option value="$PROJECT_DIR$/Course/myExam_18.03.18/solution.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/app.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_01/person.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" />
       </list>
     </option>
   </component>
@@ -161,8 +119,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="159" />
-    <option name="y" value="23" />
+    <option name="x" value="63" />
+    <option name="y" value="37" />
     <option name="width" value="1275" />
     <option name="height" value="846" />
   </component>
@@ -185,7 +143,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,29 +155,11 @@
               <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 23.07.17" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="myExam_18.03.18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="myExam_18.03.18" type="462c0819:PsiDirectoryNode" />
-              <item name="mtTest" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,11 +183,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Course/Modules/task_01" />
       <recent name="$PROJECT_DIR$/Course/Modules" />
       <recent name="$PROJECT_DIR$/Course/Exam 13.11.16/test" />
       <recent name="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/test" />
       <recent name="$PROJECT_DIR$/Course/Unit Testing" />
-      <recent name="$PROJECT_DIR$/Course/Advanced Functions" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -263,11 +202,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.solution.js">
+  <component name="RunManager" selected="Node.js.person.js">
     <configuration name="03 new.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03 new.js" working-dir="$PROJECT_DIR$/Course/myExam_18.03.18" />
-    <configuration name="03. Payment Processor.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03. Payment Processor.js" working-dir="$PROJECT_DIR$/Course/myExam_18.03.18" />
     <configuration name="EX 03. Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="EX 03. Unity.js" working-dir="$PROJECT_DIR$/Course/Classes and Members" />
     <configuration name="addProduct.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="addProduct.js" working-dir="$PROJECT_DIR$/Course/myExam_18.03.18" />
+    <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/Course/Modules/task_01/app.js" working-dir="$PROJECT_DIR$/Course/Modules" />
+    <configuration name="person.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="person.js" working-dir="$PROJECT_DIR$/Course/Modules/task_01" />
     <configuration name="solution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/Course/myExam_18.03.18" />
     <configuration name="String Builder" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -317,40 +257,25 @@
       <test-directory>$PROJECT_DIR$/Course/Exam 23.07.17/test</test-directory>
       <recursive>true</recursive>
     </configuration>
-    <configuration name="tests.set value to 0" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/Course/myExam_18.03.18/mtTest/myTest.js</test-file>
-      <test-names>
-        <name value="tests" />
-        <name value="set value to 0" />
-      </test-names>
-    </configuration>
     <list size="10">
       <item index="0" class="java.lang.String" itemvalue="Mocha.ViktorTst" />
       <item index="1" class="java.lang.String" itemvalue="Mocha.myExam" />
       <item index="2" class="java.lang.String" itemvalue="Mocha.test softUni exam" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.String Builder" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.EX 03. Unity.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.03. Payment Processor.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.03 new.js" />
-      <item index="7" class="java.lang.String" itemvalue="Mocha.tests.set value to 0" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.addProduct.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.solution.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.03 new.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.addProduct.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.solution.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.person.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.solution.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.addProduct.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03 new.js" />
-        <item index="3" class="java.lang.String" itemvalue="Mocha.tests.set value to 0" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.03. Payment Processor.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.person.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.solution.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.addProduct.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03 new.js" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +314,10 @@
       <workItem from="1520943190457" duration="1051000" />
       <workItem from="1520944276608" duration="21774000" />
       <workItem from="1521142594313" duration="16748000" />
-      <workItem from="1521378084961" duration="20224000" />
+      <workItem from="1521378084961" duration="21133000" />
+      <workItem from="1521446044212" duration="813000" />
+      <workItem from="1521476175115" duration="134000" />
+      <workItem from="1521789107542" duration="294000" />
     </task>
     <servers />
   </component>
@@ -426,7 +354,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="328700000" />
+    <option name="totallyTimeSpent" value="330850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,19 +366,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="23" width="1275" height="846" extended-state="0" />
-    <editor active="true" />
+    <frame x="63" y="37" width="1275" height="846" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29904306" sideWeight="0.5520231" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29904306" sideWeight="0.5520231" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2821192" sideWeight="0.49501917" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41456953" sideWeight="0.50498086" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38082558" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38082558" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24979253" sideWeight="0.4884393" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.49676377" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39534885" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25643155" sideWeight="0.4479769" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39534885" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -598,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,28 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/01. AddRemove Towns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="38" column="59" lean-forward="true" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Modules/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Modules/person.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/02_test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -650,20 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/move.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/01. Move Towns UpDown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -692,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="84" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="53" column="33" lean-forward="false" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="50" column="11" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="50" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-215">
           <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="411">
           <caret line="95" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,15 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-519">
           <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/addProduct.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -803,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,22 +684,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/index.html">
+    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/problem_01.html">
+    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="27" />
-          <folding />
+        <state relative-caret-position="43">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -838,22 +702,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="47" column="37" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/problem_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/addProduct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_01/person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/solution.js">
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_01/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/01. AddRemove Towns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/01. Move Towns UpDown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/move.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding>
-            <marker date="1521402934351" expanded="true" signature="140:948" ph="..." />
-            <marker date="1521402934351" expanded="true" signature="205:400" ph="..." />
-            <marker date="1521402934351" expanded="true" signature="218:388" ph="..." />
-            <marker date="1521402934351" expanded="true" signature="429:654" ph="..." />
-            <marker date="1521402934351" expanded="true" signature="442:641" ph="..." />
-            <marker date="1521402934351" expanded="true" signature="695:934" ph="..." />
-            <marker date="1521402934351" expanded="true" signature="708:921" ph="..." />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

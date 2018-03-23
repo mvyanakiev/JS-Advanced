@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb9f6b4-5957-43db-9a58-9f4dbe69487e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course/Modules/task_02/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course/Modules/task_02/map-sort.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course/Modules/task_03/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course/Modules/task_03/data.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course/Modules/task_04/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course/Modules/task_04/dog.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course/Modules/task_04/entity.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course/Modules/task_04/person.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Course/Modules/task_04/student.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" afterPath="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" />
-      <change beforePath="$PROJECT_DIR$/Course/Modules/app.js" afterPath="$PROJECT_DIR$/Course/Modules/task_01/app.js" />
-      <change beforePath="$PROJECT_DIR$/Course/Modules/person.js" afterPath="$PROJECT_DIR$/Course/Modules/task_01/person.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,7 +34,58 @@
     <favorites_list name="JS-Advanced" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="entity.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/entity.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dog.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/dog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="person.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/person.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/student.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,15 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../Local Soft/iota seed gen/index.html" />
-        <option value="$PROJECT_DIR$/Course/Classes and Members/EX 04. Length Limit.js" />
-        <option value="$PROJECT_DIR$/Course/Object Composition/Object with functions.js" />
-        <option value="$PROJECT_DIR$/Course/Object Composition/closure.js" />
-        <option value="$PROJECT_DIR$/Course/Classes and Members/EX 05. Extensible Class.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 23.07.17/test/sumator-tets.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 23.07.17/02. Sumator Class.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 23.07.17/01. Select and Print.html" />
-        <option value="$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.html" />
         <option value="$PROJECT_DIR$/Course/Exam 23.07.17/test/sumator-tests.js" />
         <option value="$PROJECT_DIR$/Course/Exam 23.07.17/03. Task.js" />
         <option value="$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.js" />
@@ -103,6 +151,15 @@
         <option value="$PROJECT_DIR$/Course/Modules/app.js" />
         <option value="$PROJECT_DIR$/Course/Modules/task_01/person.js" />
         <option value="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_02/app.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_02/map-sort.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_03/app.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_03/data.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_04/app.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_04/student.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_04/person.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_04/dog.js" />
+        <option value="$PROJECT_DIR$/Course/Modules/task_04/entity.js" />
       </list>
     </option>
   </component>
@@ -142,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -155,11 +213,30 @@
               <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Modules" type="462c0819:PsiDirectoryNode" />
+              <item name="package" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,8 +260,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Course/Modules/task_01" />
       <recent name="$PROJECT_DIR$/Course/Modules" />
+      <recent name="$PROJECT_DIR$/Course/Modules/task_01" />
       <recent name="$PROJECT_DIR$/Course/Exam 13.11.16/test" />
       <recent name="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/test" />
       <recent name="$PROJECT_DIR$/Course/Unit Testing" />
@@ -202,13 +279,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.person.js">
-    <configuration name="03 new.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03 new.js" working-dir="$PROJECT_DIR$/Course/myExam_18.03.18" />
+  <component name="RunManager" selected="Node.js.app.js (2)">
     <configuration name="EX 03. Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="EX 03. Unity.js" working-dir="$PROJECT_DIR$/Course/Classes and Members" />
-    <configuration name="addProduct.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="addProduct.js" working-dir="$PROJECT_DIR$/Course/myExam_18.03.18" />
+    <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Course/Modules/task_02" />
+    <configuration name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Course/Modules/task_04" />
     <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/Course/Modules/task_01/app.js" working-dir="$PROJECT_DIR$/Course/Modules" />
+    <configuration name="map-sort.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="map-sort.js" working-dir="$PROJECT_DIR$/Course/Modules/task_02" />
     <configuration name="person.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="person.js" working-dir="$PROJECT_DIR$/Course/Modules/task_01" />
-    <configuration name="solution.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="solution.js" working-dir="$PROJECT_DIR$/Course/myExam_18.03.18" />
     <configuration name="String Builder" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -263,19 +340,19 @@
       <item index="2" class="java.lang.String" itemvalue="Mocha.test softUni exam" />
       <item index="3" class="java.lang.String" itemvalue="Mocha.String Builder" />
       <item index="4" class="java.lang.String" itemvalue="Node.js.EX 03. Unity.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.03 new.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.addProduct.js" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.solution.js" />
-      <item index="8" class="java.lang.String" itemvalue="Node.js.app.js" />
-      <item index="9" class="java.lang.String" itemvalue="Node.js.person.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.app.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.person.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.map-sort.js" />
+      <item index="8" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+      <item index="9" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.person.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.solution.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.addProduct.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.03 new.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.app.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.map-sort.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.person.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
       </list>
     </recent_temporary>
   </component>
@@ -317,8 +394,17 @@
       <workItem from="1521378084961" duration="21133000" />
       <workItem from="1521446044212" duration="813000" />
       <workItem from="1521476175115" duration="134000" />
-      <workItem from="1521789107542" duration="294000" />
+      <workItem from="1521789107542" duration="329000" />
+      <workItem from="1521795568523" duration="869000" />
     </task>
+    <task id="LOCAL-00001" summary="move towns up down">
+      <created>1521789793327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521789793327</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -354,7 +440,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330850000" />
+    <option name="totallyTimeSpent" value="331754000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,13 +453,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="37" width="1275" height="846" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29904306" sideWeight="0.5520231" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29904306" sideWeight="0.5520231" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2821192" sideWeight="0.49501917" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41456953" sideWeight="0.50498086" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38082558" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38082558" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24979253" sideWeight="0.4884393" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.49676377" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25643155" sideWeight="0.4479769" order="2" side_tool="true" content_ui="tabs" />
@@ -413,6 +500,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="move towns up down" />
+    <option name="LAST_COMMIT_MESSAGE" value="move towns up down" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="11" />
@@ -420,57 +511,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Course/Object Composition/closure.js" />
-    <entry file="file://$PROJECT_DIR$/Course/Classes and Members/EX 04. Length Limit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="53" column="17" lean-forward="true" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Classes and Members/EX 05. Extensible Class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/01. Sort Table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/01. Sort Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="638" column="52" lean-forward="false" selection-start-line="638" selection-start-column="41" selection-end-line="638" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/deleteMe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/01. Add / Remove Towns.js" />
     <entry file="file://$PROJECT_DIR$/Course/Unit Testing/test/rgb-to-hex-tests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -758,6 +798,78 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_02/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_02/map-sort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_03/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="78" column="29" lean-forward="true" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_03/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/entity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/dog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Modules/task_04/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

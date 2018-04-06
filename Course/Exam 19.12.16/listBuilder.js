@@ -7,38 +7,18 @@ function listBuilder(selector) {
             let hui = $(selector);
 
             hui.empty();
-            hui.append('<ul id="bigHui"></ul>');
+            hui.html('<ul id="bigHui">');
         },
+
 
         addItem: function (item) {
 
-
-            let htmlToAppend = "";
-            htmlToAppend += "<li>";
-            htmlToAppend += `${item}`;
-            htmlToAppend += '<button id = "btnUp" style = "button">Up</button>';
-            htmlToAppend += `<button id = "btnDown" style = "button" onclick="console.log($('#bigHui'))">Down</button>`;
-            htmlToAppend += "</li>";
-
-            $('#bigHui').append(htmlToAppend);
-
-            // $('#btnUp').on("click",
-            //
-            //     function move() {
-            //         let townToMove = $('#bigHui');
-            //         townToMove.insertBefore(townToMove.prev());
-            //     }
-            // );
-
-            $('#btnUp').on("click",
-
-                function move() {
-                    let townToMove = $('#bigHui');
-
-                    console.log(townToMove);
-                }
-            );
-
+            $('#bigHui').append(
+                $('<li>').text(item)
+                .append($('<button>').text("Up").click(function() {$(this).parent().insertBefore($(this).parent().prev())}))
+                .append($('<button>').text("Down").click(function() {$(this).parent().insertAfter($(this).parent().next())}))
+            )
         },
+
     }
 }

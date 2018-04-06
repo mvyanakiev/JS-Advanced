@@ -19,6 +19,5 @@ function listBuilder(selector) {
                 .append($('<button>').text("Down").click(function() {$(this).parent().insertAfter($(this).parent().next())}))
             )
         },
-
     }
 }

@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb9f6b4-5957-43db-9a58-9f4dbe69487e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Course/Exam 19.12.16/StringBuilder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 19.12.16/listBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/01. Delete Towns By Name.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/01. Summary_HTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/02. sorted-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher IIFE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/test/test sorted-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/titleBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/01. Sort Table.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/01. Sort Table.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/01. Sort Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/01. Sort Table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/02. String Builder.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/02. String Builder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/03. Repository.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/03. Repository.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/04. Dialog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/04. Dialog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/deleteMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/deleteMe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/test/StringBuilder-tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/test/StringBuilder-tests.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,23 +37,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringBuilder.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/StringBuilder.html">
+      <file leaf-file-name="03. Training Course Arr.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listBuilder.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/listBuilder.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="135">
+              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
               <folding>
-                <element signature="n#style#0;n#button#0;n#li#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+                <element signature="n#!!block;n#constructor#0;n#TrainingCourse#0" />
+                <element signature="n#!!block;n#addTopic#0;n#TrainingCourse#0" />
+                <element signature="n#!!block;n#sort#0;n#TrainingCourse#0" />
+                <element signature="n#!!block;n#firstTopic#0;n#TrainingCourse#0" />
+                <element signature="n#!!block;n#lastTopic#0;n#TrainingCourse#0" />
+                <element signature="n#!!block;n#toString#0;n#TrainingCourse#0" />
               </folding>
             </state>
           </provider>
@@ -83,18 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/01. Sort Table.html" />
-        <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/01. Sort Table.js" />
-        <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/02. String Builder.js" />
-        <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/StringBuilder-tests.js" />
-        <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/03. Repository.js" />
-        <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/deleteMe.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 13.11.16/01. Add / Remove Towns.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 13.11.16/01. AddRemove Towns.html" />
-        <option value="$PROJECT_DIR$/Course/Exam 13.11.16/solution02test.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 13.11.16/Solution02.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 13.11.16/test/solution02test.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 13.11.16/03. Mail Box.js" />
         <option value="$PROJECT_DIR$/Course/Exam 13.11.16/04. Cards.html" />
         <option value="$PROJECT_DIR$/Course/Exam 13.11.16/04 Cards.js" />
         <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/test/StringBuilder-tests.js" />
@@ -134,6 +117,18 @@
         <option value="$PROJECT_DIR$/Course/Exam 19.12.16/StringBuilder.html" />
         <option value="$PROJECT_DIR$/Course/Exam 19.12.16/move.js" />
         <option value="$PROJECT_DIR$/Course/Exam 19.12.16/listBuilder.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/01. Summary_HTML.html" />
+        <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/02. sorted-list.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/test/test sorted-list.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher IIFE.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html" />
+        <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/titleBar.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/01. Delete Towns By Name.html" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course.js" />
       </list>
     </option>
   </component>
@@ -150,10 +145,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="y" value="27" />
-    <option name="width" value="1362" />
-    <option name="height" value="846" />
+    <option name="x" value="22" />
+    <option name="y" value="67" />
+    <option name="width" value="1256" />
+    <option name="height" value="819" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -179,6 +174,18 @@
               <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 05.09.2017 Retake" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 07.11.2016 Sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="Exam 13.11.16" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,6 +199,16 @@
               <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="Exam 23.07.17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 31.10.2016 Sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -224,6 +241,9 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Course/Modules" />
       <recent name="$PROJECT_DIR$/Course/Modules/task_01" />
@@ -244,13 +264,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.student.js">
-    <configuration name="EX 01. Sort Array.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="EX 01. Sort Array.js" working-dir="$PROJECT_DIR$/Course/Advanced Functions" />
-    <configuration name="EX 02. People.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="EX 02. People.js" working-dir="$PROJECT_DIR$/Course/Prototype Chain" />
+  <component name="RunManager" selected="Node.js.03. Training Course Arr.js">
+    <configuration name="03. Task.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="03. Task.js" working-dir="$PROJECT_DIR$/Course/Exam 23.07.17" />
+    <configuration name="03. Training Course Arr.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" working-dir="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample" />
+    <configuration name="04. Contacts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="04. Contacts.js" working-dir="$PROJECT_DIR$/Course/Exam 23.07.17" />
     <configuration name="EX 03. Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="EX 03. Unity.js" working-dir="$PROJECT_DIR$/Course/Classes and Members" />
-    <configuration name="app.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Course/Modules/task_02" />
-    <configuration name="app.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Course/Modules/task_04" />
-    <configuration name="student.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="student.js" working-dir="$PROJECT_DIR$/Course/Modules/task_04" />
+    <configuration name="titleBar.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="titleBar.js" working-dir="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample" />
+    <configuration name="Course/Exam 13.11.16/test/solution02test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/Course/Exam 13.11.16/test/solution02test.js</test-file>
+    </configuration>
+    <configuration name="SL" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/Course/Exam 31.10.2016 Sample</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/test</test-directory>
+      <recursive>false</recursive>
+    </configuration>
     <configuration name="String Builder" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -299,21 +339,22 @@
       <item itemvalue="Mocha.ViktorTst" />
       <item itemvalue="Mocha.myExam" />
       <item itemvalue="Mocha.test softUni exam" />
+      <item itemvalue="Mocha.SL" />
       <item itemvalue="Mocha.String Builder" />
       <item itemvalue="Node.js.EX 03. Unity.js" />
-      <item itemvalue="Node.js.app.js (1)" />
-      <item itemvalue="Node.js.app.js (2)" />
-      <item itemvalue="Node.js.EX 01. Sort Array.js" />
-      <item itemvalue="Node.js.EX 02. People.js" />
-      <item itemvalue="Node.js.student.js" />
+      <item itemvalue="Node.js.titleBar.js" />
+      <item itemvalue="Node.js.04. Contacts.js" />
+      <item itemvalue="Mocha.Course/Exam 13.11.16/test/solution02test.js" />
+      <item itemvalue="Node.js.03. Training Course Arr.js" />
+      <item itemvalue="Node.js.03. Task.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.student.js" />
-        <item itemvalue="Node.js.EX 02. People.js" />
-        <item itemvalue="Node.js.EX 01. Sort Array.js" />
-        <item itemvalue="Node.js.app.js (2)" />
-        <item itemvalue="Node.js.app.js (1)" />
+        <item itemvalue="Node.js.03. Training Course Arr.js" />
+        <item itemvalue="Node.js.03. Task.js" />
+        <item itemvalue="Mocha.Course/Exam 13.11.16/test/solution02test.js" />
+        <item itemvalue="Node.js.titleBar.js" />
+        <item itemvalue="Node.js.04. Contacts.js" />
       </list>
     </recent_temporary>
   </component>
@@ -358,6 +399,15 @@
       <workItem from="1522187493073" duration="551000" />
       <workItem from="1522236441178" duration="8000" />
       <workItem from="1522982332488" duration="8249000" />
+      <workItem from="1523938762214" duration="5401000" />
+      <workItem from="1523947586360" duration="6031000" />
+      <workItem from="1523955150799" duration="12296000" />
+      <workItem from="1524125653254" duration="7124000" />
+      <workItem from="1524207414359" duration="531000" />
+      <workItem from="1524209871404" duration="175000" />
+      <workItem from="1524213845495" duration="103000" />
+      <workItem from="1524224520757" duration="705000" />
+      <workItem from="1524287109575" duration="21238000" />
     </task>
     <task id="LOCAL-00001" summary="move towns up down">
       <created>1521789793327</created>
@@ -377,39 +427,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="tests_is_non_Active - 2018.03.18 at 17h 00m 16s.xml">
-      <configuration name="tests.is non Active" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="tests - 2018.04.17 at 10h 33m 16s.xml">
+      <configuration name="tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_is_non_Active - 2018.03.18 at 17h 01m 08s.xml">
-      <configuration name="tests.is non Active" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="tests_Sort_index - 2018.04.17 at 10h 35m 22s.xml">
+      <configuration name="tests.Sort index" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_is_non_Active - 2018.03.18 at 17h 01m 25s.xml">
-      <configuration name="tests.is non Active" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="tests_Size - 2018.04.17 at 10h 36m 14s.xml">
+      <configuration name="tests.Size" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_is_non_wrong_Active - 2018.03.18 at 17h 02m 27s.xml">
-      <configuration name="tests.is non wrong Active" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="tests_Size - 2018.04.17 at 10h 36m 20s.xml">
+      <configuration name="tests.Size" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_is_non_wrong_Active - 2018.03.18 at 17h 02m 37s.xml">
-      <configuration name="tests.is non wrong Active" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="tests_Size - 2018.04.17 at 10h 37m 54s.xml">
+      <configuration name="tests.Size" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_set_negative_value - 2018.03.18 at 16h 54m 26s.xml">
-      <configuration name="tests.set negative value" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="tests_Size - 2018.04.17 at 10h 38m 03s.xml">
+      <configuration name="tests.Size" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_set_value_to_0 - 2018.03.18 at 19h 26m 09s.xml">
-      <configuration name="tests.set value to 0" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Course_Exam_31_10_2016_Sample_test_test_sorted-list_js - 2018.04.17 at 10h 38m 23s.xml">
+      <configuration name="Course/Exam 31.10.2016 Sample/test/test sorted-list.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_set_value_to_0 - 2018.03.18 at 19h 26m 19s.xml">
-      <configuration name="tests.set value to 0" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="tests_Function_Get,_collection_is_empty - 2018.04.17 at 10h 44m 59s.xml">
+      <configuration name="tests.Function Get, collection is empty" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_set_wrong_value - 2018.03.18 at 16h 54m 01s.xml">
-      <configuration name="tests.set wrong value" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="tests - 2018.04.17 at 10h 45m 53s.xml">
+      <configuration name="tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_to_str,_inactive - 2018.03.18 at 16h 57m 31s.xml">
-      <configuration name="tests.to str, inactive" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Course_Exam_13_11_16_test_solution02test_js - 2018.04.20 at 08h 49m 00s.xml">
+      <configuration name="Course/Exam 13.11.16/test/solution02test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="341155000" />
+    <option name="totallyTimeSpent" value="394759000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -421,47 +471,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="27" width="1362" height="846" extended-state="0" />
+    <frame x="22" y="67" width="1256" height="819" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5520231" visible="true" weight="0.21923937" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49501917" weight="0.2821192" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5520231" visible="true" weight="0.28016195" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49501917" weight="0.28106508" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50498086" side_tool="true" weight="0.41456953" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" visible="true" weight="0.38050735" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928476" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50498086" side_tool="true" weight="0.41456953" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" visible="true" weight="0.2603878" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928476" />
       <window_info id="Structure" order="1" sideWeight="0.4884393" side_tool="true" weight="0.24979253" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49676377" weight="0.32921812" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49676377" weight="0.32921812" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39534885" />
       <window_info id="Favorites" order="2" sideWeight="0.4479769" side_tool="true" weight="0.25643155" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32816538" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32816538" />
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32873562" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49676377" visible="true" weight="0.27877238" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5520231" visible="true" weight="0.29333332" />
-      <window_info id="Structure" order="1" sideWeight="0.4884393" weight="0.24979253" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.38379815" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32928476" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3978052" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49676377" weight="0.32921812" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50323623" side_tool="true" weight="0.3286445" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" sideWeight="0.4479769" side_tool="true" weight="0.25643155" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -480,142 +511,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Course/Modules/js/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Modules/package/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/02_test.js">
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/02. FunctionTest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/jQuery/01. Text from List.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/01. Select and Print.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/jQuery/03. Countries Table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1029">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/02. String Builder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/test/solution02test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/fnctTst.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/Solution02.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/02. Sumator Class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/test/StringBuilder-tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="53" column="33" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/test/sumator-tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="50" column="11" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="50" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/03. Task.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/03. Player.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/03. Repository.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/03. Mail Box.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-215">
-          <caret line="6" column="23" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/mtTest/myTest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="95" lean-forward="true" selection-start-line="3" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/02. Payment Package.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-519">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/03. Payment Processor.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -665,13 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/01. AddRemove Towns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -752,23 +644,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/04. Dialog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-end-line="25" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -779,10 +658,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/StringBuilder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/test/StringBuilder-tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/02. Payment Package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" selection-start-line="71" selection-end-line="71" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/mtTest/myTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="52" column="89" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/test/test sorted-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher IIFE.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-294">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/02. sorted-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="26" column="40" lean-forward="true" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/01. Summary_HTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/04. Cards.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="420">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/01. AddRemove Towns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/01. Move Towns UpDown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/01. Select and Print.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-242" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/01. Delete Towns By Name.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -795,46 +770,106 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/move.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/01. Move Towns UpDown.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/StringBuilder.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/listBuilder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/move.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="61" column="6" lean-forward="true" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/titleBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/03. Repository.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-968">
+          <caret line="3" column="26" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/03. Mail Box.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="26" selection-start-line="26" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/03. Player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Job/EGT_Interactive/Task_02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/03. Task.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
           <folding>
-            <element signature="n#style#0;n#button#0;n#li#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#TrainingCourse#0" />
+            <element signature="n#!!block;n#addTopic#0;n#TrainingCourse#0" />
+            <element signature="n#!!block;n#sort#0;n#TrainingCourse#0" />
+            <element signature="n#!!block;n#firstTopic#0;n#TrainingCourse#0" />
+            <element signature="n#!!block;n#lastTopic#0;n#TrainingCourse#0" />
+            <element signature="n#!!block;n#toString#0;n#TrainingCourse#0" />
           </folding>
         </state>
       </provider>

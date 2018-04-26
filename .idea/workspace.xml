@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb9f6b4-5957-43db-9a58-9f4dbe69487e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/01. Delete Towns By Name.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/01. Summary_HTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/02. sorted-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher IIFE.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/test/test sorted-list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/titleBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/02. AddDelete in List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/TC AuthorsSolution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,25 +30,7 @@
     <favorites_list name="JS-Advanced" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="03. Training Course Arr.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!block;n#constructor#0;n#TrainingCourse#0" />
-                <element signature="n#!!block;n#addTopic#0;n#TrainingCourse#0" />
-                <element signature="n#!!block;n#sort#0;n#TrainingCourse#0" />
-                <element signature="n#!!block;n#firstTopic#0;n#TrainingCourse#0" />
-                <element signature="n#!!block;n#lastTopic#0;n#TrainingCourse#0" />
-                <element signature="n#!!block;n#toString#0;n#TrainingCourse#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,11 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Course/Exam 13.11.16/04. Cards.html" />
-        <option value="$PROJECT_DIR$/Course/Exam 13.11.16/04 Cards.js" />
-        <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/test/StringBuilder-tests.js" />
-        <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/dialog.js" />
-        <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/solution.js" />
         <option value="$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/04. Dialog.html" />
         <option value="$PROJECT_DIR$/Course/Modules/01. Person.js" />
         <option value="$PROJECT_DIR$/Course/Modules/package/персон.js" />
@@ -126,9 +97,14 @@
         <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html" />
         <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/titleBar.js" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/01. Delete Towns By Name.html" />
-        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/TC AuthorsSolution.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/02. Add/Delete in List.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/02. AddDelete in List.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test/test.js" />
       </list>
     </option>
   </component>
@@ -145,10 +121,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
-    <option name="y" value="67" />
-    <option name="width" value="1256" />
-    <option name="height" value="819" />
+    <option name="x" value="16" />
+    <option name="y" value="33" />
+    <option name="width" value="1323" />
+    <option name="height" value="852" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -174,37 +150,7 @@
               <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 05.09.2017 Retake" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 07.11.2016 Sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 13.11.16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 19.12.16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 23.07.17" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 31.10.2016 Sample" type="462c0819:PsiDirectoryNode" />
+              <item name="myExam 26.04.18 Retake" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
@@ -264,21 +210,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.03. Training Course Arr.js">
-    <configuration name="03. Task.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="03. Task.js" working-dir="$PROJECT_DIR$/Course/Exam 23.07.17" />
-    <configuration name="03. Training Course Arr.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" working-dir="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample" />
-    <configuration name="04. Contacts.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="04. Contacts.js" working-dir="$PROJECT_DIR$/Course/Exam 23.07.17" />
+  <component name="RunManager" selected="Mocha.Function createList tests.Function remove with negative index">
+    <configuration name="02. AddDelete in List.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="02. AddDelete in List.js" working-dir="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample" />
     <configuration name="EX 03. Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="EX 03. Unity.js" working-dir="$PROJECT_DIR$/Course/Classes and Members" />
-    <configuration name="titleBar.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="titleBar.js" working-dir="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample" />
-    <configuration name="Course/Exam 13.11.16/test/solution02test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex 07.11.16 Sample" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$/Course/Exam 07.11.2016 Sample</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test</test-directory>
+      <recursive>false</recursive>
+    </configuration>
+    <configuration name="Function createList tests" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
       <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/Course/Exam 13.11.16/test/solution02test.js</test-file>
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test/test.js</test-file>
+      <test-names>
+        <name value="Function createList tests" />
+      </test-names>
+    </configuration>
+    <configuration name="Function createList tests.Function remove with large index" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test/test.js</test-file>
+      <test-names>
+        <name value="Function createList tests" />
+        <name value="Function remove with large index" />
+      </test-names>
+    </configuration>
+    <configuration name="Function createList tests.Function remove with negative index" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test/test.js</test-file>
+      <test-names>
+        <name value="Function createList tests" />
+        <name value="Function remove with negative index" />
+      </test-names>
+    </configuration>
+    <configuration name="Function createList tests.Function remove" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test/test.js</test-file>
+      <test-names>
+        <name value="Function createList tests" />
+        <name value="Function remove" />
+      </test-names>
     </configuration>
     <configuration name="SL" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
@@ -340,21 +339,22 @@
       <item itemvalue="Mocha.myExam" />
       <item itemvalue="Mocha.test softUni exam" />
       <item itemvalue="Mocha.SL" />
+      <item itemvalue="Mocha.Ex 07.11.16 Sample" />
       <item itemvalue="Mocha.String Builder" />
       <item itemvalue="Node.js.EX 03. Unity.js" />
-      <item itemvalue="Node.js.titleBar.js" />
-      <item itemvalue="Node.js.04. Contacts.js" />
-      <item itemvalue="Mocha.Course/Exam 13.11.16/test/solution02test.js" />
-      <item itemvalue="Node.js.03. Training Course Arr.js" />
-      <item itemvalue="Node.js.03. Task.js" />
+      <item itemvalue="Mocha.Function createList tests" />
+      <item itemvalue="Node.js.02. AddDelete in List.js" />
+      <item itemvalue="Mocha.Function createList tests.Function remove" />
+      <item itemvalue="Mocha.Function createList tests.Function remove with large index" />
+      <item itemvalue="Mocha.Function createList tests.Function remove with negative index" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.03. Training Course Arr.js" />
-        <item itemvalue="Node.js.03. Task.js" />
-        <item itemvalue="Mocha.Course/Exam 13.11.16/test/solution02test.js" />
-        <item itemvalue="Node.js.titleBar.js" />
-        <item itemvalue="Node.js.04. Contacts.js" />
+        <item itemvalue="Mocha.Function createList tests.Function remove with negative index" />
+        <item itemvalue="Mocha.Function createList tests.Function remove with large index" />
+        <item itemvalue="Node.js.02. AddDelete in List.js" />
+        <item itemvalue="Mocha.Function createList tests.Function remove" />
+        <item itemvalue="Mocha.Function createList tests" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +407,9 @@
       <workItem from="1524209871404" duration="175000" />
       <workItem from="1524213845495" duration="103000" />
       <workItem from="1524224520757" duration="705000" />
-      <workItem from="1524287109575" duration="21238000" />
+      <workItem from="1524287109575" duration="25842000" />
+      <workItem from="1524727050886" duration="179000" />
+      <workItem from="1524743719634" duration="99000" />
     </task>
     <task id="LOCAL-00001" summary="move towns up down">
       <created>1521789793327</created>
@@ -427,39 +429,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="tests - 2018.04.17 at 10h 33m 16s.xml">
-      <configuration name="tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests - 2018.04.22 at 11h 37m 28s.xml">
+      <configuration name="Function createList tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_Sort_index - 2018.04.17 at 10h 35m 22s.xml">
-      <configuration name="tests.Sort index" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests_Function_add - 2018.04.22 at 11h 40m 16s.xml">
+      <configuration name="Function createList tests.Function add" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_Size - 2018.04.17 at 10h 36m 14s.xml">
-      <configuration name="tests.Size" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests - 2018.04.22 at 11h 40m 30s.xml">
+      <configuration name="Function createList tests" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_Size - 2018.04.17 at 10h 36m 20s.xml">
-      <configuration name="tests.Size" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests_Function_remove - 2018.04.22 at 11h 43m 48s.xml">
+      <configuration name="Function createList tests.Function remove" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_Size - 2018.04.17 at 10h 37m 54s.xml">
-      <configuration name="tests.Size" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests_Function_remove_with_large_index - 2018.04.22 at 11h 47m 51s.xml">
+      <configuration name="Function createList tests.Function remove with large index" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_Size - 2018.04.17 at 10h 38m 03s.xml">
-      <configuration name="tests.Size" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests_Function_remove_with_large_index - 2018.04.22 at 11h 48m 28s.xml">
+      <configuration name="Function createList tests.Function remove with large index" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Course_Exam_31_10_2016_Sample_test_test_sorted-list_js - 2018.04.17 at 10h 38m 23s.xml">
-      <configuration name="Course/Exam 31.10.2016 Sample/test/test sorted-list.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests_Function_remove_with_large_index - 2018.04.22 at 11h 49m 12s.xml">
+      <configuration name="Function createList tests.Function remove with large index" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests_Function_Get,_collection_is_empty - 2018.04.17 at 10h 44m 59s.xml">
-      <configuration name="tests.Function Get, collection is empty" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests_Function_remove_with_large_index - 2018.04.22 at 11h 49m 36s.xml">
+      <configuration name="Function createList tests.Function remove with large index" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="tests - 2018.04.17 at 10h 45m 53s.xml">
-      <configuration name="tests" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests_Function_remove_with_large_index - 2018.04.22 at 11h 49m 44s.xml">
+      <configuration name="Function createList tests.Function remove with large index" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Course_Exam_13_11_16_test_solution02test_js - 2018.04.20 at 08h 49m 00s.xml">
-      <configuration name="Course/Exam 13.11.16/test/solution02test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Function_createList_tests_Function_remove_with_negative_index - 2018.04.22 at 11h 50m 06s.xml">
+      <configuration name="Function createList tests.Function remove with negative index" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="394759000" />
+    <option name="totallyTimeSpent" value="399641000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,14 +473,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="67" width="1256" height="819" extended-state="0" />
-    <editor active="true" />
+    <frame x="16" y="33" width="1323" height="852" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5520231" visible="true" weight="0.28016195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5520231" visible="true" weight="0.2611367" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49501917" weight="0.28106508" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50498086" side_tool="true" weight="0.41456953" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" visible="true" weight="0.2603878" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" weight="0.24900663" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928476" />
       <window_info id="Structure" order="1" sideWeight="0.4884393" side_tool="true" weight="0.24979253" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49676377" weight="0.32921812" />
@@ -511,45 +512,10 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/03 new.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/problem_01.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam_18.03.18/addProduct.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -728,20 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/04. Cards.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/01. AddRemove Towns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="21" selection-start-line="5" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/01. Move Towns UpDown.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="577">
@@ -803,20 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="50" lean-forward="true" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -859,18 +797,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/TC AuthorsSolution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!block;n#constructor#0;n#TrainingCourse#0" />
-            <element signature="n#!!block;n#addTopic#0;n#TrainingCourse#0" />
-            <element signature="n#!!block;n#sort#0;n#TrainingCourse#0" />
-            <element signature="n#!!block;n#firstTopic#0;n#TrainingCourse#0" />
-            <element signature="n#!!block;n#lastTopic#0;n#TrainingCourse#0" />
-            <element signature="n#!!block;n#toString#0;n#TrainingCourse#0" />
-          </folding>
+        <state relative-caret-position="1050">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/Solution02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/test/solution02test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/02. AddDelete in List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/04. Cards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/01. AddRemove Towns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="5" column="21" selection-start-line="5" selection-end-line="6" />
         </state>
       </provider>
     </entry>

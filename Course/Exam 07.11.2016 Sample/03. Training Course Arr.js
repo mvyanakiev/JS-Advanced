@@ -6,7 +6,6 @@ class TrainingCourse {
     }
 
     addTopic(topicTitle, date) {
-
         let hasDate = true;
         for (let element of this.topics) {
             if (element[1].getTime() === date.getTime()) {
@@ -32,7 +31,6 @@ class TrainingCourse {
     }
 
     get firstTopic() {
-
         if (this.topics.length > 0) {
 
             return {
@@ -43,7 +41,6 @@ class TrainingCourse {
     }
 
     get lastTopic() {
-
         if (this.topics.length > 0) {
 
             let lastElement = this.topics.length - 1;
@@ -55,9 +52,8 @@ class TrainingCourse {
     }
 
     toString() {
-
         if (this.topics.length === 0) {
-            return `Course "${this.title}" by ${this.trainer}`;
+            return `Course "${this.title}" by ${this.trainer}\n`;
         } else {
             let outputString = `Course "${this.title}" by ${this.trainer}\n`;
 
@@ -67,22 +63,38 @@ class TrainingCourse {
             return outputString;
         }
     }
+
+    get test() {
+        console.log(this.topics);
+    }
 }
 
 
-let js = new TrainingCourse("JS Intro", "Svetlin Nakov");
+let test = new TrainingCourse("PHP", "Royal");
+test.addTopic('Syntax', new Date(2017, 10, 12, 18, 0));
+test.addTopic('Exam prep', new Date(2017, 10, 14, 18, 0));
+test.addTopic('Intro', new Date(2017, 10, 10, 18, 0));
 
-js.addTopic("Maps", new Date(2016, 9, 6, 18, 0));
-js.addTopic("JS Overview", new Date(2016, 8, 27, 18, 0));
-js.addTopic("Arrays", new Date(2016, 9, 3, 18, 0));
-js.addTopic("Program Logic", new Date(2016, 8, 29, 18, 0));
-js.addTopic("Hoi___", new Date(2016, 9, 3, 18, 0));
+// console.log(test.toString());
+test.test;
+
+
+
+// let js = new TrainingCourse("JS Intro", "Svetlin Nakov");
+//
+// js.addTopic("Maps", new Date(2016, 9, 6, 18, 0));
+// js.addTopic("JS Overview", new Date(2016, 8, 27, 18, 0));
+// js.addTopic("Arrays", new Date(2016, 9, 3, 18, 0));
+// js.addTopic("Program Logic", new Date(2016, 8, 29, 18, 0));
+// js.addTopic("Hoi___", new Date(2016, 9, 3, 18, 0));
 
 // console.log("" + js);
-console.log("First topic: " + JSON.stringify(js.firstTopic));
-console.log("Last topic: " + JSON.stringify(js.lastTopic));
+// console.log("First topic: " + JSON.stringify(js.firstTopic));
+// console.log("Last topic: " + JSON.stringify(js.lastTopic));
+//
+// let php = new TrainingCourse("PHP Intro", "Ivan Yonkov");
+// console.log("" + php);
+// console.log("First topic: " + JSON.stringify(php.lastTopic));
+// console.log("First topic: " + JSON.stringify(php.firstTopic));
 
-let php = new TrainingCourse("PHP Intro", "Ivan Yonkov");
-console.log("" + php);
-console.log("First topic: " + JSON.stringify(php.lastTopic));
-console.log("First topic: " + JSON.stringify(php.firstTopic));
+

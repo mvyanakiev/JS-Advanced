@@ -17,17 +17,21 @@
     // }
 </script>
 <script>
-    $(function() {
-            let builder = tableBuilder("#main");
+    $(function () {
+        // let builder = tableBuilder("#main");
 
-            builder.createTable(['Name', 'Town']);
+        let builder = result('div');
 
-            builder.fillData([
-                ['Maria', 'Sofia'],
-                ['Kiril', 'Varna'],
-                ['Ani <new>', 'Ruse'],
-            ]);
-        });
+        builder.createTable(['Just', 'A', 'Test']);
+
+        // builder.createTable(['Name', 'Town']);
+        //
+        // builder.fillData([
+        //     ['Maria', 'Sofia'],
+        //     ['Kiril', 'Varna'],
+        //     ['Ani <new>', 'Ruse'],
+        // ]);
+    });
 </script>
 
 </body>

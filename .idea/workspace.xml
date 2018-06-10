@@ -4,17 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Course/myExam_18.03.18/03 new.js" line="186" mnemonic="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cb9f6b4-5957-43db-9a58-9f4dbe69487e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/02. Subscription Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/03. Line Manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/bus-route.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/test/testCards.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/zad01.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" afterDir="false" />
-    </list>
+    <list default="true" id="0cb9f6b4-5957-43db-9a58-9f4dbe69487e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -33,7 +23,7 @@
     <favorites_list name="JS-Advanced" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,7 +49,7 @@
       <file leaf-file-name="04. Table Builder.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="345">
               <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
@@ -68,7 +58,7 @@
       <file leaf-file-name="tableBuilder.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="375">
               <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
@@ -178,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,24 +182,13 @@
             </path>
             <path>
               <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 07.11.2016 Sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Exam 31.10.2016 Sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -478,6 +456,7 @@
       <workItem from="1524727050886" duration="179000" />
       <workItem from="1524743719634" duration="99000" />
       <workItem from="1524744125019" duration="19683000" />
+      <workItem from="1528309837530" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="move towns up down">
       <created>1521789793327</created>
@@ -529,7 +508,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="419324000" />
+    <option name="totallyTimeSpent" value="419360000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -542,18 +521,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="26" width="1323" height="852" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5520231" visible="true" weight="0.24807988" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49501917" weight="0.28106508" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50498086" side_tool="true" weight="0.41456953" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928476" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" weight="0.24503312" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928476" />
       <window_info id="Structure" order="1" sideWeight="0.4884393" side_tool="true" weight="0.24979253" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49676377" weight="0.32921812" />
-      <window_info id="Favorites" order="2" sideWeight="0.4479769" side_tool="true" weight="0.25643155" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.394702" />
+      <window_info id="Favorites" order="2" sideWeight="0.4479769" side_tool="true" weight="0.25643155" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -882,10 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="104" column="30" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="30" />
-          <folding>
-            <element signature="e#275#458#0" />
-            <element signature="e#518#766#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -893,11 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="e#534#725#0" />
-            <element signature="n#!!block;n#atDepot#0;n#LineManager#0" />
-            <element signature="n#!!block;n#toString#0;n#LineManager#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,14 +886,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="345">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="375">
           <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>

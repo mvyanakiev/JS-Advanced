@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/Course/myExam_18.03.18/03 new.js" line="186" mnemonic="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cb9f6b4-5957-43db-9a58-9f4dbe69487e" name="Default" comment="" />
+    <list default="true" id="0cb9f6b4-5957-43db-9a58-9f4dbe69487e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/zad01.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/zad01.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -24,42 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/index.html">
+      <file leaf-file-name="bus-route.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/bus-route.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="18" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="63">
+              <caret line="75" column="11" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="solution.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js">
+      <file leaf-file-name="04. Contacts.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04. Table Builder.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tableBuilder.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -134,11 +115,11 @@
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/02. Subscription Card.js" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/test/testCards.js" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/bus-route.html" />
-        <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/zad01.js" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/03. Line Manager.js" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/index.html" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js" />
+        <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/zad01.js" />
       </list>
     </option>
   </component>
@@ -168,6 +149,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,13 +164,18 @@
             </path>
             <path>
               <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Exam 23.07.17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,7 +225,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.03. Line Manager.js">
+  <component name="RunManager" selected="JavaScript Debug.04. Table Builder.html">
+    <configuration name="04. Table Builder.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Advanced/Course/Exam 07.11.2016 Sample/04. Table Builder.html" />
     <configuration name="03. Line Manager.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="03. Line Manager.js" working-dir="$PROJECT_DIR$/Course/myExam 26.04.18 Retake" />
     <configuration name="EX 03. Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="EX 03. Unity.js" working-dir="$PROJECT_DIR$/Course/Classes and Members" />
     <configuration name="Ex 07.11.16 Sample" type="mocha-javascript-test-runner" factoryName="Mocha">
@@ -298,21 +286,6 @@
         <name value="Unit test" />
         <name value="is that all methods" />
         <name value="invalid for blocked" />
-      </test-names>
-    </configuration>
-    <configuration name="Unit test.is that all methods.invalid for date" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/Course/myExam 26.04.18 Retake/test/testCards.js</test-file>
-      <test-names>
-        <name value="Unit test" />
-        <name value="is that all methods" />
-        <name value="invalid for date" />
       </test-names>
     </configuration>
     <configuration name="Unit test.is that all methods.valid for exact end date" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
@@ -387,19 +360,19 @@
       <item itemvalue="Mocha.Ex 07.11.16 Sample" />
       <item itemvalue="Mocha.String Builder" />
       <item itemvalue="Node.js.EX 03. Unity.js" />
-      <item itemvalue="Mocha.Unit test.is that all methods.invalid for date" />
       <item itemvalue="Mocha.Unit test.is that all methods.valid for exact start date" />
       <item itemvalue="Mocha.Unit test.is that all methods.valid for exact end date" />
       <item itemvalue="Mocha.Unit test.is that all methods.invalid for blocked" />
       <item itemvalue="Node.js.03. Line Manager.js" />
+      <item itemvalue="JavaScript Debug.04. Table Builder.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.04. Table Builder.html" />
         <item itemvalue="Node.js.03. Line Manager.js" />
         <item itemvalue="Mocha.Unit test.is that all methods.invalid for blocked" />
         <item itemvalue="Mocha.Unit test.is that all methods.valid for exact end date" />
         <item itemvalue="Mocha.Unit test.is that all methods.valid for exact start date" />
-        <item itemvalue="Mocha.Unit test.is that all methods.invalid for date" />
       </list>
     </recent_temporary>
   </component>
@@ -457,6 +430,9 @@
       <workItem from="1524743719634" duration="99000" />
       <workItem from="1524744125019" duration="19683000" />
       <workItem from="1528309837530" duration="36000" />
+      <workItem from="1528728535211" duration="1102000" />
+      <workItem from="1528990643375" duration="32000" />
+      <workItem from="1530534761834" duration="58000" />
     </task>
     <task id="LOCAL-00001" summary="move towns up down">
       <created>1521789793327</created>
@@ -508,7 +484,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="419360000" />
+    <option name="totallyTimeSpent" value="420552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,7 +531,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -598,13 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/04. Dialog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="24" column="65" lean-forward="true" selection-start-line="24" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -664,13 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 19.12.16/01. Move Towns UpDown.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="577">
@@ -694,13 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -849,20 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/zad01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/bus-route.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="104" column="30" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/03. Line Manager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -884,17 +825,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html">
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="273">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js">
+    <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -902,17 +843,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="38" column="18" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="18" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js">
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 05.09.2017 Retake/04. Dialog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/zad01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/bus-route.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="75" column="11" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
     </entry>

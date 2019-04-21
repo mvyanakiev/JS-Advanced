@@ -1,4 +1,4 @@
-// let startTime = new Date();
+let startTime = new Date();
 
 
 let uniqueRandomKeys = new Set();
@@ -28,9 +28,10 @@ while (uniqueRandomKeys.size < 1000000) {
 
 
 
-// let arrayOfUniqueKeys = [...uniqueRandomKeys.values()];
-// let endTime = new Date();
-// console.log("Time to complete: " + (endTime - startTime) + " ms");
+let arrayOfUniqueKeys = [...uniqueRandomKeys.values()];
+let endTime = new Date();
+console.log("Time to complete: " + (endTime - startTime) + " ms");
+console.log(arrayOfUniqueKeys);
 
 
 

@@ -9,7 +9,6 @@ class Point {
         const dy = a.y - b.y;
         return Math.sqrt(dx*dx + dy*dy);
     }
-
 }
 
 let p1 = new Point(2,5);

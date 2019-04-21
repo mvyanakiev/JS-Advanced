@@ -6,7 +6,6 @@ function solve(arr, command) {
         arr.sort((b,a) => b-a);
         arr.reverse()
     }
-
    return arr
 }
 

@@ -17,11 +17,12 @@ function processCommands(commands) {
     }
 }
 
-// processCommands([
-//     'append hello',
-//     'append again',
-//     'removeStart 3',
-//     'removeEnd 4',
-//     'print'
-// ]);
+processCommands([
+    'append hello',
+    'append again',
+    'removeStart 3',
+    'removeEnd 4',
+    'print'
+]);
+
 processCommands(['append 123', 'append 45', 'removeStart 2', 'removeEnd 1', 'print']);

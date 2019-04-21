@@ -4,30 +4,24 @@ class Rat {
         this.uniteRats = [];
     }
 
-
     unite(ratToUnite) {
         if (ratToUnite instanceof Rat){
            this.uniteRats.push(ratToUnite)
         }
     }
 
-
     toString() {
         let string = this.name;
         for (let obj of this.uniteRats) {
             string += "\n##" + obj
-
         }
         return string;
-
     }
 
     getRats() {
         return this.uniteRats
     }
 }
-
-
 
 
 let test = new Rat("Pesho");

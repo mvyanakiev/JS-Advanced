@@ -39,7 +39,7 @@ describe("tests", function () {
 
     it("is non Active", function () {
         let val = false;
-        bill.active = false
+        bill.active = false;
         expect(bill.active).to.be.equal(val);
     });
 

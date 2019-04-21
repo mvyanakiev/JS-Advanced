@@ -23,8 +23,6 @@
 
 
 <body onload="attachEvents()">
-
-
 <h2>Towns</h2>
 <ul id="items">
     <li>Sofia</li>
@@ -36,10 +34,9 @@
 <button id="showTownsButton">Show Towns</button>
 <div id="selectedTowns"></div>
 
-<!--<script>$(attachEvents())</script>-->
+<script>$(attachEvents())</script>
 
 <script>
-
     function attachEvents() {
 
         $('#items').on('click', 'li', function () {
@@ -60,12 +57,7 @@
             $('#selectedTowns')
                 .text("Selected towns: " + towns);
         });
-
     }
-
-
 </script>
-
-
 </body>
 </html>

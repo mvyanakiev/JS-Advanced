@@ -7,7 +7,6 @@ function classHierarchy() {
             }
         }
 
-
         toString() {
             return this.constructor.name;
         }
@@ -27,7 +26,6 @@ function classHierarchy() {
         toString() {
             return `${super.toString()} - radius: ${this.radius}`
         }
-
     }
 
     class Rectangle extends Figure {
@@ -35,7 +33,6 @@ function classHierarchy() {
             super();
             this.width = width;
             this.height = height;
-
         }
 
         get area() {
@@ -45,12 +42,9 @@ function classHierarchy() {
         toString() {
             return `${super.toString()} - width: ${this.width}, height: ${this.height}`
         }
-
     }
 
-
     return {Figure, Circle, Rectangle};
-
 }
 
 
@@ -59,8 +53,8 @@ let c = new Circle(5);
 console.log(c.area);        //78.53981633974483
 console.log(c.toString());
 
-let r = new Rectangle(3, 4);
-console.log(r.area);        //12
-console.log(r.toString());  //Rectangle - width: 3, height: 4
+// let r = new Rectangle(3, 4);
+// console.log(r.area);        //12
+// console.log(r.toString());  //Rectangle - width: 3, height: 4
 
 

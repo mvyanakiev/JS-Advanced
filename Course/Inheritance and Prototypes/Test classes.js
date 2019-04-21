@@ -1,4 +1,4 @@
-function cityPricves(input) {
+function cityPrices(input) {
 
     class Item {
         constructor(type, price, city) {
@@ -33,7 +33,7 @@ function cityPricves(input) {
 }
 
 
-cityPricves([
+cityPrices([
 
     'Sofia City | Audi | 100000',
     'Sofia City | BMW | 100000',

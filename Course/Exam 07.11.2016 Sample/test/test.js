@@ -40,8 +40,4 @@ describe("Function createList tests", function () {
         a.add(5);
         expect(a.delete(-1)).to.be.equal(undefined);
     });
-
-
-
-
 });

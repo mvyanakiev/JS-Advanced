@@ -18,46 +18,38 @@ let result = (function () {
         }
 
 
-
-    set face(f) {
-        if (!Faces.includes(f)) {
-            throw new TypeError('invalid card face: ' + f);
+        set face(f) {
+            if (!Faces.includes(f)) {
+                throw new TypeError('invalid card face: ' + f);
+            }
+            this._face = f;
         }
-        this._face = f;
-    }
 
 
-
-
-    get face() {
-        return this._face
-    }
-
-
-    set suit(s) {
-        if (!Object.keys(Suits).map(k => k = Suits[k]).includes(s)) {
-            throw new TypeError('invalid card suit: ' + s);
+        get face() {
+            return this._face
         }
-        this._suit = s;
+
+
+        set suit(s) {
+            if (!Object.keys(Suits).map(k => k = Suits[k]).includes(s)) {
+                throw new TypeError('invalid card suit: ' + s);
+            }
+            this._suit = s;
+        }
+
+        get suit() {
+            return this._suit
+        }
+
+        toString() {
+            return `${this.face}${this.suit}`;
+        }
     }
 
-    get suit() {
-        return this._suit
-    }
+    return {Suits, Card}
 
-    toString() {
-        return `${this.face}${this.suit}`;
-    }
-
-
-}
-
-return {Suits, Card}
-
-}())
-
-
-
+}());
 
 
 let Card = result.Card;

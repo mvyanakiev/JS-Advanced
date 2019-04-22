@@ -56,7 +56,6 @@
             .append($('<label>').text("Enter text: ").append($('<input>')))
             .append($('<a>').addClass("button").css("display", "inline-block").text("Add")));
 
-
         $(selector).append($('<div>').attr('class', 'search-controls')
             .append($('<label>').text("Search: ").append($('<input>'))));
     }
@@ -68,37 +67,6 @@
     $(".button").on("click", function () {
         alert(txtAlert)
     });
-
-
-    //todo да се добави третия div с листа и да се върже фунционалността на полетата
-
-
-    // $('<div/>', {
-    //     'class': 'add-controls;',
-    // }).appendTo(selector);
-
-    // $("#add-controls").append('<label>').text("Enter text:").append('<input>');
-
-
-    // $('<label>').appendTo('.add-controls');
-
-
-    // $(".add-controls").append('<label>tst</label>');
-    //
-    // $(".add-controls").append($('<p>').addClass('title').text("kur"));
-
-
-    // $('<div/>', {
-    //     'class': 'items-controls;',
-    // }).appendTo(selector);
-
-
-    // $('<div/>', {
-    //     'id': 'content',
-    //     'class': 'items-controls;',
-    // }).appendTo(selector);
-
-
 </script>
 </body>
 </html>

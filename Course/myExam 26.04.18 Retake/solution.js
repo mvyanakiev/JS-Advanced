@@ -8,37 +8,23 @@ class PublicTransportTable {
 
     genTable() {
         $('table').find("caption").text(`${this.town}'s Public Transport`);
-
-
     }
 
 
-    ass() {
+    checkFn() {
         console.log('sd');
     }
 
 
-    addVehicle(hoi) {
-
-
-
-
-
+    addVehicle(vehicle) {
         let tr = "";
         tr += `<tr>`;
-        tr += `<td>${hoi.type}</td>`;
-        tr += `<td>${hoi.name}</td><td><button id="${this.id}" onclick="ass()">More Info</button></td>`;
+        tr += `<td>${vehicle.type}</td>`;
+        tr += `<td>${vehicle.name}</td><td><button id="${this.id}" onclick="checkFn()">More Info</button></td>`;
         tr += `</tr>`;
 
-
-
         $('table').append(tr);
-        $('#this.id').on("click", this.ass());
+        $('#this.id').on("click", this.checkFn());
         this.id++;
-
-
-
     }
-
-
 }

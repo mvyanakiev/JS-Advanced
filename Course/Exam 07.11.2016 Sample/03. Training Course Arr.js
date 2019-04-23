@@ -86,7 +86,6 @@ test.test;
 // js.addTopic("JS Overview", new Date(2016, 8, 27, 18, 0));
 // js.addTopic("Arrays", new Date(2016, 9, 3, 18, 0));
 // js.addTopic("Program Logic", new Date(2016, 8, 29, 18, 0));
-// js.addTopic("Hoi___", new Date(2016, 9, 3, 18, 0));
 
 // console.log("" + js);
 // console.log("First topic: " + JSON.stringify(js.firstTopic));

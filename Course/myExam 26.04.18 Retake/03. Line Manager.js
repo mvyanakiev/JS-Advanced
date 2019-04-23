@@ -130,7 +130,7 @@ man.arriveAtStop(4);
 // ]);
 
 // const wrong = new LineManager([
-//     {name: 'hoi', timeToNext: 11}
+//     {name: 'wrong', timeToNext: 11}
 // ]);
 
 // console.log(man.atDepot);

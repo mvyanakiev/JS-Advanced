@@ -5,38 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cb9f6b4-5957-43db-9a58-9f4dbe69487e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Exam 19.12.16/StringBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 19.12.16/StringBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Exam 19.12.16/listBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 19.12.16/listBuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/03. Line Manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/03. Line Manager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/myExam_18.03.18/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/myExam_18.03.18/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/myExam_18.03.18/mtTest/myTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/myExam_18.03.18/mtTest/myTest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/myExam_18.03.18/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/myExam_18.03.18/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/JS_Advanced$Test_that_array_is_symmetrical.coverage" NAME="Test that array is symmetrical Coverage Results" MODIFIED="1519928521115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/JS_Advanced$Test_that_array_is_symmetrical_should_return_true_for__1_2_1_.coverage" NAME="Test that array is symmetrical.should return true for [1,2,1] Coverage Results" MODIFIED="1519928498686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JS_Advanced$Test_that_array_is_symmetrical.coverage" NAME="Test that array is symmetrical Coverage Results" MODIFIED="1519928521115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="MochaJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="JS-Advanced" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="03. Line Manager.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/03. Line Manager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1972">
-              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+            <state relative-caret-position="450">
+              <caret line="135" column="28" lean-forward="true" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -80,21 +79,17 @@
         <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher.js" />
         <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/03. Storm Watcher IIFE.js" />
         <option value="$PROJECT_DIR$/Course/Exam 23.07.17/04. Contacts.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html" />
         <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/titleBar.js" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/01. Delete Towns By Name.html" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/tableBuilder.js" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course.js" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/TC AuthorsSolution.js" />
-        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/02. Add/Delete in List.js" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/02. AddDelete in List.js" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/02. Subscription Card.js" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/test/testCards.js" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/bus-route.html" />
-        <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/index.html" />
         <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/04. Table Builder.html" />
-        <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/zad01.js" />
         <option value="$PROJECT_DIR$/Course/Advanced Functions/LAB 02. Currency Format.js" />
         <option value="$PROJECT_DIR$/Course/Advanced Functions/EX 01. Sort Array.js" />
@@ -116,17 +111,27 @@
         <option value="$PROJECT_DIR$/Course/myExam_18.03.18/solution.js" />
         <option value="$PROJECT_DIR$/Course/myExam_18.03.18/02. Payment Package.js" />
         <option value="$PROJECT_DIR$/Course/myExam_18.03.18/mtTest/myTest.js" />
+        <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/index.html" />
+        <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js" />
+        <option value="$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html" />
         <option value="$PROJECT_DIR$/Course/myExam 26.04.18 Retake/03. Line Manager.js" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="45" />
     <option name="y" value="23" />
     <option name="width" value="1443" />
@@ -144,17 +149,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="JS_Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS_Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JS_Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS_Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JS_Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS_Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="JS-Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="Course" type="462c0819:PsiDirectoryNode" />
               <item name="myExam 26.04.18 Retake" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -214,38 +219,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Course\myExam_18.03.18\mtTest\myTest.js">
-    <configuration name="02. Payment Package.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Course/myExam_18.03.18/02. Payment Package.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="EX 02. People.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="Course/Prototype Chain/EX 02. People.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="EX 03. Unity.js" type="NodeJSConfigurationType" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="EX 03. Unity.js" working-dir="$PROJECT_DIR$/Course/Classes and Members">
-      <method v="2" />
-    </configuration>
-    <configuration name="LAB 04. Class Hierarchy.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Course/Inheritance and Prototypes/LAB 04. Class Hierarchy.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="NodeJS" type="NodeJSConfigurationType" singleton="true" temporary="true" path-to-node="C:/Program Files/nodejs/node" working-dir="$PROJECT_DIR$/">
-      <method v="2" />
-    </configuration>
-    <configuration name="Course\myExam_18.03.18\mtTest\myTest.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.03. Training Course Arr.js">
+    <configuration name="02. Payment Package.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Course/myExam_18.03.18/02. Payment Package.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="03. Training Course Arr.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="03. Training Course Arr.js" working-dir="$PROJECT_DIR$/Course/Exam 07.11.2016 Sample" />
+    <configuration name="EX 03. Unity.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="EX 03. Unity.js" working-dir="$PROJECT_DIR$/Course/Classes and Members" />
+    <configuration name="LAB 04. Class Hierarchy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Course/Inheritance and Prototypes/LAB 04. Class Hierarchy.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="NodeJS" type="NodeJSConfigurationType" factoryName="Node.js" singleton="true" temporary="true" path-to-node="C:/Program Files/nodejs/node" working-dir="$PROJECT_DIR$/" />
+    <configuration name="Course\myExam_18.03.18\mtTest\myTest.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <mocha-package>/usr/local/lib/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/Course/myExam_18.03.18/mtTest/myTest.js</test-file>
-      <method v="2" />
     </configuration>
-    <configuration name="Ex 07.11.16 Sample" type="mocha-javascript-test-runner">
+    <configuration name="Ex 07.11.16 Sample" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <mocha-package>/usr/local/lib/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$/Course/Exam 07.11.2016 Sample</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -253,12 +245,10 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/test</test-directory>
       <recursive>false</recursive>
-      <method v="2" />
     </configuration>
-    <configuration name="SL" type="mocha-javascript-test-runner">
+    <configuration name="SL" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <mocha-package>/usr/local/lib/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$/Course/Exam 31.10.2016 Sample</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -266,12 +256,10 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/test</test-directory>
       <recursive>false</recursive>
-      <method v="2" />
     </configuration>
-    <configuration name="String Builder" type="mocha-javascript-test-runner">
+    <configuration name="String Builder" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <mocha-package>/usr/local/lib/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -279,12 +267,10 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/Course/Retake Exam - 5 Sept 2017/test</test-directory>
       <recursive>false</recursive>
-      <method v="2" />
     </configuration>
-    <configuration name="TestCard" type="mocha-javascript-test-runner">
+    <configuration name="TestCard" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <mocha-package>/usr/local/lib/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$/Course/myExam 26.04.18 Retake</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -292,12 +278,10 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/Course/myExam 26.04.18 Retake/test</test-directory>
       <recursive>false</recursive>
-      <method v="2" />
     </configuration>
-    <configuration name="ViktorTst" type="mocha-javascript-test-runner">
+    <configuration name="ViktorTst" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <mocha-package>/usr/local/lib/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$/Course/Exam 13.11.16</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -305,12 +289,10 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/Course/Exam 13.11.16/test</test-directory>
       <recursive>false</recursive>
-      <method v="2" />
     </configuration>
-    <configuration name="myExam" type="mocha-javascript-test-runner">
+    <configuration name="myExam" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <mocha-package>/usr/local/lib/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$/Course/myExam_18.03.18</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -318,12 +300,10 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/Course/myExam_18.03.18/mtTest</test-directory>
       <recursive>false</recursive>
-      <method v="2" />
     </configuration>
-    <configuration name="test softUni exam" type="mocha-javascript-test-runner">
+    <configuration name="test softUni exam" type="mocha-javascript-test-runner" factoryName="Mocha">
       <node-interpreter>project</node-interpreter>
       <node-options />
-      <mocha-package>/usr/local/lib/node_modules/mocha</mocha-package>
       <working-directory>$PROJECT_DIR$/Course/Exam 23.07.17</working-directory>
       <pass-parent-env>true</pass-parent-env>
       <ui>bdd</ui>
@@ -331,7 +311,6 @@
       <test-kind>DIRECTORY</test-kind>
       <test-directory>$PROJECT_DIR$/Course/Exam 23.07.17/test</test-directory>
       <recursive>true</recursive>
-      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Mocha.TestCard" />
@@ -343,18 +322,18 @@
       <item itemvalue="Mocha.String Builder" />
       <item itemvalue="Node.js.EX 03. Unity.js" />
       <item itemvalue="Node.js.NodeJS" />
-      <item itemvalue="Node.js.EX 02. People.js" />
       <item itemvalue="Node.js.LAB 04. Class Hierarchy.js" />
       <item itemvalue="Node.js.02. Payment Package.js" />
       <item itemvalue="Mocha.Course\myExam_18.03.18\mtTest\myTest.js" />
+      <item itemvalue="Node.js.03. Training Course Arr.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.03. Training Course Arr.js" />
         <item itemvalue="Mocha.Course\myExam_18.03.18\mtTest\myTest.js" />
         <item itemvalue="Node.js.02. Payment Package.js" />
         <item itemvalue="Node.js.LAB 04. Class Hierarchy.js" />
         <item itemvalue="Node.js.NodeJS" />
-        <item itemvalue="Node.js.EX 02. People.js" />
       </list>
     </recent_temporary>
   </component>
@@ -419,6 +398,7 @@
       <workItem from="1555856732067" duration="2359000" />
       <workItem from="1555917877881" duration="2008000" />
       <workItem from="1555999845429" duration="1003000" />
+      <workItem from="1556031319171" duration="796000" />
     </task>
     <task id="LOCAL-00001" summary="move towns up down">
       <created>1521789793327</created>
@@ -470,7 +450,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="425947000" />
+    <option name="totallyTimeSpent" value="426743000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,31 +462,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="45" y="23" width="1443" height="852" extended-state="0" />
+    <frame x="1" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5520231" visible="true" weight="0.22633451" />
-      <window_info id="Structure" order="1" sideWeight="0.4884393" side_tool="true" weight="0.24979253" />
-      <window_info id="Favorites" order="2" sideWeight="0.4479769" side_tool="true" weight="0.25643155" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32816538" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" weight="0.24478443" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.394702" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5520231" visible="true" weight="0.22621565" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49501917" weight="0.28106508" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49676377" weight="0.32921812" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928476" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50498086" side_tool="true" weight="0.41456953" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3199482" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928476" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49676377" visible="true" weight="0.24355671" />
+      <window_info id="Structure" order="1" sideWeight="0.4884393" side_tool="true" weight="0.24979253" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49676377" weight="0.32921812" />
+      <window_info id="Favorites" order="2" sideWeight="0.4479769" side_tool="true" weight="0.25643155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.394702" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32873562" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="move towns up down" />
@@ -514,15 +497,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="modules" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/03. Line Manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Advanced Functions/LAB 02. Currency Format.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Advanced Functions/LAB 01. Aggregates.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/Advanced Functions/EX 02. Argument Info.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -567,30 +554,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Classes and Members/EX 01. Data Class.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Classes and Members/EX 04. Length Limit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-422" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/Classes and Members/EX 05. Extensible Class.js" />
-    <entry file="file://$PROJECT_DIR$/Course/Classes and Members/LAB 01. Rectangle.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Classes and Members/LAB 02. Person.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Classes and Members/LAB 03. Get Persons.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Classes and Members/LAB 04. Circle.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/Classes and Members/LAB 05. Point Distance.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -620,9 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Document Object Model/03. Accordion.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Document Object Model/02. Add -Delete.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-47" />
@@ -639,13 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="83" column="2" lean-forward="true" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -684,18 +649,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Unit Testing/LAB 04. Sum of Numbers.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Course/Modules/task_02/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Modules/task_02/map-sort.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/jQuery/04. Link Buttons.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -717,9 +676,6 @@
           <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/03. Mail Box.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Course/Exam 13.11.16/04 Cards.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -798,10 +754,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 07.11.2016 Sample/03. Training Course Arr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="86" column="54" lean-forward="true" selection-start-line="86" selection-start-column="54" selection-end-line="86" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Course/Exam 31.10.2016 Sample/04. Title Bar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="91" column="45" selection-start-line="91" selection-start-column="45" selection-end-line="91" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Course/myExam 26.04.18 Retake/03. Line Manager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1972">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+        <state relative-caret-position="450">
+          <caret line="135" column="28" lean-forward="true" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
         </state>
       </provider>
     </entry>

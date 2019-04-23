@@ -32,12 +32,9 @@ class LineManager {
                 throw new Error("Name must be string");
             }
         }
-
-
     }
 
     get nextStopName() {
-
         if (this.validStops.length - 1 === this.currentStopNumber) {
             this.NextStop = "At depot.";
         }
@@ -45,50 +42,38 @@ class LineManager {
             this.NextStop = this.validStops[this.currentStopNumber + 1].name;
         }
         return this.NextStop
-
     }
 
     get currentDelay() {
-
         this.delay = this.duration - this.realTime
 
         return this.delay
     }
 
     arriveAtStop(minutes) {
-
         if (minutes < 0) {
             throw new Error("minutes cannot be negative");
-
         } else if (this.currentStopNumber === this.validStops.length-1) {
             throw new Error("last stop reached");
-
         } else {
-
             this.duration += minutes;
             this.currentStop = this.validStops[this.currentStopNumber].name;
             this.realTime += this.validStops[this.currentStopNumber].timeToNext;
             this.currentStopNumber++;
             this.currentDelay
-
         }
-
     }
 
     get atDepot() {
-
         if (this.validStops.length-1 <= this.currentStopNumber) {
             return true
         } else {
             return false
         }
-
     }
 
     toString() {
-
         let output = "Line summary\n";
-
 
         if (this.currentStopNumber < this.validStops.length-1) {
 
@@ -103,12 +88,8 @@ class LineManager {
             output += "- Stops covered: " + this.currentStopNumber + "\n";
             output += "- Time on course: " + this.duration + " minutes\n";
             output += "- Delay: " + this.currentDelay + " minutes";
-
-
         }
-
         return output
-
     }
 
 }
@@ -121,7 +102,7 @@ const man = new LineManager([
     {name: 'TV Tower', timeToNext: 3},
     {name: 'Interpred', timeToNext: 4},
     {name: 'Dianabad', timeToNext: 2},
-    {name: 'Hui', timeToNext: 0},
+    {name: 'Pioneer', timeToNext: 0},
 ]);
 
 

@@ -54,7 +54,7 @@ describe("tests", function () {
     });
 
     it("set wrong VAT, string", function () {
-        expect(() => bill.VAT = "HUI").to.throw(Error, 'VAT must be a non-negative number');
+        expect(() => bill.VAT = "String").to.throw(Error, 'VAT must be a non-negative number');
     });
 
 

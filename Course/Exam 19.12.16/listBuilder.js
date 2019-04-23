@@ -1,19 +1,17 @@
 function listBuilder(selector) {
 
     return {
-
         createNewList: function () {
 
-            let hui = $(selector);
+            let listTowns = $(selector);
 
-            hui.empty();
-            hui.html('<ul id="bigHui">');
+            listTowns.empty();
+            listTowns.html('<ul id="newId">');
         },
-
 
         addItem: function (item) {
 
-            $('#bigHui').append(
+            $('#newId').append(
                 $('<li>').text(item)
                 .append($('<button>').text("Up").click(function() {$(this).parent().insertBefore($(this).parent().prev())}))
                 .append($('<button>').text("Down").click(function() {$(this).parent().insertAfter($(this).parent().next())}))

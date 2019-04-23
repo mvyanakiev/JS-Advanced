@@ -37,7 +37,7 @@ class PaymentManager {
 </table>`;
 
 
-       $('button:contains("Add")').on("click", () => alert('hui'));
+       $('button:contains("Add")').on("click", () => alert('have action'));
 
         $(`#${target}`).append(renderedHtml);
 
